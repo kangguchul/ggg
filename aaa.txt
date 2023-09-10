@@ -1,2 +1,4 @@
 aaa+aaa
+충돌문구
+nnnnn
 
